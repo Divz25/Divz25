@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Movie 1",
+        "year": 2022,
+        "genre": "Romantic ,fun"
+    },
+    {
+        "title": "SOLO",
+        "year": 2017,
+        "genre": "Serius"
+    },
+    {
+        "title": "Singapore Saloon",
+        "year": 2024,
+        "genre": "Drama"
+    }
+]
