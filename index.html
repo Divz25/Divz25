@@ -23,12 +23,11 @@
     <script>   // Get the video element
         const video = document.getElementById('videoPlayer');
 
-        // Add an event listener to play the video when it's loaded
         video.addEventListener('loadedmetadata', function() {
             video.play();
         });
 
-        // Add an event listener to pause the video when it ends
+
         video.addEventListener('ended', function() {
             video.pause();
         });</script>
